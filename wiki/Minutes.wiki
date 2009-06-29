@@ -1,0 +1,10 @@
+#summary The Meeting Minutes Main Page.
+
+= Introduction =
+
+This Wiki page will contain the links to Minutes of the Meetings.
+
+
+= Minutes of the Meeting for =
+
+  * MoM for the meeting dated *25 June 2009*.
