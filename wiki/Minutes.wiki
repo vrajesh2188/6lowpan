@@ -1,4 +1,5 @@
 #summary The Meeting Minutes Main Page.
+#labels minutes,MoM
 
 = Introduction =
 
