@@ -1,0 +1,30 @@
+#summary Minutes of the meeting on July 30.
+
+= Participants =
+
+ * Jean Marc Coulon (first session)
+ * Vladimir
+ * Jean Souleyre
+ * Mehmet Gunduz
+ * Ismael Merodio 
+ * Jean Baptiste Leclere (second session)
+
+= Minutes =
+ _To be filled in later_
+
+= Action Items = 
+ * Contact Atmel R&D in Dresden for information  (Vladimir)
+ * Contact Atmel BE distributor (JB Mehmet)
+ * Identify end device functionality, interfaces and how to control them. (ALL)
+   * RGB light
+   * Switch
+ * Further research into Atmel's existing products (ALL)
+ * Research into software aspects:  (ALL, Ismael, JB)
+   * How to integrate the functionality
+   * Size, where to run, etc.
+   * Software architecture
+ * Create the template for project management (Vladimir)
+   * Draft Work Breakdown Structure (Vladimir)
+   * Intercommunication infrastructure - Google Groups. (Mehmet) 
+   * Planning / Meeting organization   
+   * Research Google Sites for the project website (Mehmet)
