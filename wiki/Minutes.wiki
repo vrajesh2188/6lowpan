@@ -9,3 +9,4 @@ This Wiki page will contain the links to Minutes of the Meetings.
 = Minutes of the Meeting for =
 
   * [Minutes20090625] MoM for the meeting dated *25 June 2009*.
+  * [Minutes20090630] MoM for the meeting dated *30 June 2009*.
