@@ -1,0 +1,24 @@
+#summary Project members availability information.
+
+= Introduction =
+
+This page holds the availability information for meetings and also the holiday periods.
+
+= Details =
+  * Mehmet: 
+    * Tuesdays 1pm - 2pm in a meeting.
+    * July 3 Busy all day for training
+  * Jean: 
+    * Tuesdays 1pm - 2pm in a meeting.
+    * July 3 Busy all day for training
+    * June 30 Busy 5 pm to 8 pm for training.
+  * Vladimir:
+    * Lives in Turnhout
+    * Mostly unavailable to travel week of June 30 - July 3.
+    * In Brussels on Fridays.         
+  * Ismael: 
+    * Lives in Antwerp, sometimes Leiden NL.
+    * Available all days, 1 day or reasonable notice for travel to BXL.
+  * Jean Baptiste:
+    * Lives in Brussels.
+    * 
