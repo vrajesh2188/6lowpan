@@ -22,3 +22,15 @@ This page holds the availability information for meetings and also the holiday p
   * Jean Baptiste:
     * Lives in Brussels.
     * 
+
+= Holidays =
+  * Mehmet: 
+    * 3 weeks, TBD. 
+  * Jean: 
+    * 1-2 weeks in August.
+  * Vladimir:
+    * Between 5 - 30 August 
+  * Ismael: 
+    * Undecided, 1 week in July
+  * Jean Baptiste:
+    * 29 July to 9 August.
