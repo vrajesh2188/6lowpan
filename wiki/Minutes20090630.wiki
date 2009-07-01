@@ -10,8 +10,10 @@
  * Jean Baptiste Leclere (second session)
 
 = Minutes =
- _To be filled in later_
- 
+ * Basic product requirements and ideas are presented by J-M.
+ * System architecture discussion (bridge vs. bridgeless networks).
+ * Analysis of different Atmel's chipsets, kits and other products are done.
+ * Following activities are identified and resources are allocated.
  * Jean Baptiste noted that delivery terms for the Atmel products should be checked.
 
 = Action Items = 
