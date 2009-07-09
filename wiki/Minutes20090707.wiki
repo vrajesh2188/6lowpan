@@ -1,13 +1,25 @@
 #summary Minutes of the meeting on July 07.
 
-= Introduction =
+= Participants =
 
 Add your content here.
 
 
-= Details =
+= Minutes =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+= Action points =
+
+Add your content here.
+
+= Planned vacations =
+
+Add your content here.
+
+= Next meeting =
+When:  14.07.2009.     2pm
+Where: Meeting room on 6th floor.
