@@ -17,11 +17,12 @@ Add your content here.  Format your content with:
 
 = Action points =
 
-  * hardware specification to be done by the end of the week (to be able to order parts as soon as possible) – Mehmet
-  * system architecture specification - Mehmet
-  * functional requirements specification to be done by the end of the week - Jean and Vladimir to work on it together on Friday
-  * end object software architecture specification - Ismael
-  * bridge software architecture specification – JB Leclere
+  * Hardware specification to be done by the end of the week (to be able to order parts as soon as possible) – Mehmet
+  * System architecture specification - Mehmet
+  * Functional requirements specification to be done by the end of the week - Jean and Vladimir to work on it together on Friday
+  * End object software architecture specification - Ismael
+  * Bridge software architecture specification – JB Leclere
+  * Project Management Plan - Vladimir
 
 = Planned vacations =
 
