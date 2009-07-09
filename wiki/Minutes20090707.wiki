@@ -10,11 +10,6 @@
 
 = Minutes =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
   * Team members presented and discussed the results of their activities defined on the last meeting:
     * Outcome from contacting Atmel distributors (Mehmet)
     * Overall knowledge sharing of hardware products (All)
