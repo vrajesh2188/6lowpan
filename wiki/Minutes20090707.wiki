@@ -16,10 +16,46 @@ Add your content here.  Format your content with:
   * Automatic links to other wiki pages
 
   * Team members presented and discussed the results of their activities defined on the last meeting:
--	Outcome from contacting Atmel distributors (Mehmet)
--	Overall knowledge sharing of hardware products (All)
--	Overall knowledge sharing of associated software (All)
--	Preliminary Project Scope Statement (Vladimir)
+    * Outcome from contacting Atmel distributors (Mehmet)
+    * Overall knowledge sharing of hardware products (All)
+    * Overall knowledge sharing of associated software (All)
+    * Preliminary Project Scope Statement (Vladimir)
+
+  * Preliminary hardware specification is made:
+    * Ethernet/6LoWPAN Bridge (1 piece):
+      * AT91SAM7X – EK
+      * ATAVRRZ502 RF
+      * Adapter card
+    * Smart End Nodes:
+      * RAVEN evaluation boards (4 pieces)
+      * Optionally instead of 4 RAVEN following boards are acceptable (or any combination with RAVEN):
+        * ATAVRRZ201
+        * RCB breakout board
+    * Debugging board (1 piece):
+      * AVRRZUSBSTICK
+
+  * Preliminary software specification:
+    * Bridge software – to be decided after more research
+    * End Objects software – Arch Rock is suggested as a first option
+
+  * Team roles and responsibilities are defined:
+    * Vladimir Milanovic, project management, frs, code development
+    * Mehmet Gunduz, system architecture, hardware specification, code development
+    * Jean Souleyre, test plan, frs, code development
+    * Ismael Merodio, software architecture (bidge sw), code development
+    * Jean-Baptiste Leclere, software architecture (end node sw), code development
+
+  * List of goods necessary for project execution is initiated (still under construction):
+    * Multimeter
+    * RGB LED
+    * Fan
+    * Light
+    * Switch
+    * Batteries
+    * DC Source (if not part of development kit)
+    * PCs (any kind with Windows, for development)
+    * JTAG debugger (to be discussed)
+    * Router (to be checked if it is really needed
 
 
 = Action points =
