@@ -15,6 +15,13 @@ Add your content here.  Format your content with:
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
 
+  * Team members presented and discussed the results of their activities defined on the last meeting:
+-	Outcome from contacting Atmel distributors (Mehmet)
+-	Overall knowledge sharing of hardware products (All)
+-	Overall knowledge sharing of associated software (All)
+-	Preliminary Project Scope Statement (Vladimir)
+
+
 = Action points =
 
   * Hardware specification to be done by the end of the week (to be able to order parts as soon as possible) – Mehmet
