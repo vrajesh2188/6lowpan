@@ -2,8 +2,11 @@
 
 = Participants =
 
-Add your content here.
-
+  * Mehmet Gunduz
+  * Jean Souleyre
+  * Ismael Merodio
+  * Jean-Baptiste Leclere
+  * Vladimir Milanovic
 
 = Minutes =
 
